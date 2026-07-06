@@ -15,6 +15,7 @@ Saved/
 .DS_Store
 Thumbs.db
 
+
 # Keep project files
 !Config/
 !Content/
