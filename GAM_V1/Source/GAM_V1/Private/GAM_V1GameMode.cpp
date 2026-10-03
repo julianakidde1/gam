@@ -1,5 +1,3 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
-
 #include "GAM_V1GameMode.h"
 
 #include "Kismet/GameplayStatics.h"

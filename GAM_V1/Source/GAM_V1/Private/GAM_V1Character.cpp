@@ -1,5 +1,3 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
-
 #include "GAM_V1Character.h"
 #include "Animation/AnimInstance.h"
 #include "Camera/CameraComponent.h"
